@@ -4,7 +4,7 @@
 - 💞️ I’m also a Medical Records Officer in profession.
 - 📫 You can always reach me at my email jgichina7@gmail.com,telegram @JONNYG254 or through whatsapp on +254714306830.
 - ⚡ Reach me and lets see the power of Data.
-
+- Check this link for my project   https://colab.research.google.com/drive/1mNTFIYNCvbsAkogXWXBwjq43NIZ_9LFc?usp=drive_link
 <!---
 JOHN-THEANALYST/JOHN-THEANALYST is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
